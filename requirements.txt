@@ -2,3 +2,5 @@ ollama
 python-dotenv
 streamlit
 PyPDF2
+transformers
+torch
