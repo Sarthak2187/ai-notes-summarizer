@@ -7,7 +7,7 @@ client = Client()
 st.title("📄 AI Notes + PDF Summarizer")
 st.write("Summarize text or PDFs using your local Llama model.")
 
-# Function to extract text from PDF
+# Function to extract text from PDF files
 def extract_text_from_pdf(pdf_file):
     reader = PyPDF2.PdfReader(pdf_file)
     text = ""
