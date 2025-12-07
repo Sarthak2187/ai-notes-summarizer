@@ -1,2 +1,4 @@
 ollama
 python-dotenv
+streamlit
+PyPDF2
